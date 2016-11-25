@@ -4,7 +4,7 @@ Please, go to the [Wiki](https://github.com/UNIZAR-30246-WebEngineering/lab4-web
 
 NIA    | User name | Repo | Build Status | Improvement | Score
 -------|-----------|------|--------------|-------------|--------
-647002 | AGUILAR REQUENA, EDUARDO 
+647002 | AGUILAR REQUENA, EDUARDO | [test repo](https://github.com/McGredu/lab4-websockets/tree/test) |[![Build Status](https://travis-ci.org/McGredu/lab4-websockets.svg?branch=test)](https://travis-ci.org/McGredu/lab4-websockets) 
 666156 | BAREA LÓPEZ, DANIEL 
 666179 | BARRIOS GIL, ÁLVARO | [test repo](https://github.com/deerter/lab4-websockets/tree/test) |[![Build Status](https://travis-ci.org/deerter/lab4-websockets.svg?branch=test)](https://travis-ci.org/deerter/lab4-websockets) 
 612595 | BELTRÁN PIÑOL, VÍCTOR | [test repo](https://github.com/Victorbp09/lab4-websockets/tree/test) | [![Build Status](https://api.travis-ci.org/Victorbp09/lab4-websockets.svg?branch=test)](https://travis-ci.org/Victorbp09/lab4-websockets)
