@@ -102,7 +102,7 @@ public class ElizaServerTest {
         @Override
         public void onOpen(Session session, EndpointConfig config) {
 
-            session.getAsyncRemote().sendText("maybe I didn't see a pig flying");
+            session.getAsyncRemote().sendText("maybe I didn't see that comming");
 
             session.addMessageHandler(new ElizaMessageHandlerToComplete());
         }
